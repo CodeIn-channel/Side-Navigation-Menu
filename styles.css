@@ -346,6 +346,7 @@
   height: 2.8em;
   padding-right: 3.3em;
   margin-top: 25px;
+  cursor: pointer;
 }
 
 .cssbuttons-io-button .icon {
